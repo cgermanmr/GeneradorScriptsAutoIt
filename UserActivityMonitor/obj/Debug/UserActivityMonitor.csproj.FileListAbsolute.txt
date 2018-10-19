@@ -1,0 +1,4 @@
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\UserActivityMonitor\bin\Debug\UserActivityMonitor.dll
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\UserActivityMonitor\bin\Debug\UserActivityMonitor.pdb
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\UserActivityMonitor\obj\Debug\UserActivityMonitor.dll
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\UserActivityMonitor\obj\Debug\UserActivityMonitor.pdb

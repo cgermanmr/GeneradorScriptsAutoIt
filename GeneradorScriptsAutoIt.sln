@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneradorScriptsAutoIt", "GeneradorScriptsAutoIt\GeneradorScriptsAutoIt.csproj", "{22312FD8-07E0-4673-B513-D1192DFBCC73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserActivityMonitor", "UserActivityMonitor\UserActivityMonitor.csproj", "{CF21CD2F-460A-4CAB-A8E0-6BEFAEF36906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22312FD8-07E0-4673-B513-D1192DFBCC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22312FD8-07E0-4673-B513-D1192DFBCC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22312FD8-07E0-4673-B513-D1192DFBCC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22312FD8-07E0-4673-B513-D1192DFBCC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF21CD2F-460A-4CAB-A8E0-6BEFAEF36906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF21CD2F-460A-4CAB-A8E0-6BEFAEF36906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF21CD2F-460A-4CAB-A8E0-6BEFAEF36906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF21CD2F-460A-4CAB-A8E0-6BEFAEF36906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

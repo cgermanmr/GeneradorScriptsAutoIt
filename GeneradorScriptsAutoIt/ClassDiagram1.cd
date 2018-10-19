@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GeneradorScriptsAutoIt.Comando" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAMAABAgAAFAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Comandos\Comando.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GeneradorScriptsAutoIt.ComandoMouseClick" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comandos\ComandoMouseClick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneradorScriptsAutoIt.ComandoMouseMove" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comandos\ComandoMouseMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneradorScriptsAutoIt.ComandoSend" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comandos\ComandoSend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneradorScriptsAutoIt.ComandoSleep" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comandos\ComandoSleep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneradorScriptsAutoIt.ComandoRun" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comandos\ComandoRun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneradorScriptsAutoIt.ComandoScreenCapture" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comandos\ComandoScreenCapture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneradorScriptsAutoIt.ComandoWinActivate" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comandos\ComandoWinActivate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneradorScriptsAutoIt.ComandoWinClose" Collapsed="true">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comandos\ComandoWinClose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneradorScriptsAutoIt.ComandoWinWaitActive" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comandos\ComandoWinWaitActive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

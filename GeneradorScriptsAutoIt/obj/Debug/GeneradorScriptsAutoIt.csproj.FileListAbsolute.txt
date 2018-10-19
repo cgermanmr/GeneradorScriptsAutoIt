@@ -1,0 +1,13 @@
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\GeneradorScriptsAutoIt\obj\Debug\GeneradorScriptsAutoIt.csprojResolveAssemblyReference.cache
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\GeneradorScriptsAutoIt\obj\Debug\GeneradorScriptsAutoIt.MainForm.resources
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\GeneradorScriptsAutoIt\obj\Debug\GeneradorScriptsAutoIt.Properties.Resources.resources
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\GeneradorScriptsAutoIt\obj\Debug\GeneradorScriptsAutoIt.csproj.GenerateResource.Cache
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\GeneradorScriptsAutoIt\bin\Debug\GeneradorScriptsAutoIt.exe.config
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\GeneradorScriptsAutoIt\bin\Debug\GeneradorScriptsAutoIt.exe
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\GeneradorScriptsAutoIt\bin\Debug\GeneradorScriptsAutoIt.pdb
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\GeneradorScriptsAutoIt\bin\Debug\AutoItX3.Assembly.dll
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\GeneradorScriptsAutoIt\bin\Debug\UserActivityMonitor.dll
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\GeneradorScriptsAutoIt\bin\Debug\UserActivityMonitor.pdb
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\GeneradorScriptsAutoIt\bin\Debug\AutoItX3.Assembly.xml
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\GeneradorScriptsAutoIt\obj\Debug\GeneradorScriptsAutoIt.exe
+D:\Archivos Personales\desarrollo\GeneradorScriptsAutoIt\GeneradorScriptsAutoIt\obj\Debug\GeneradorScriptsAutoIt.pdb
